@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img src="https://github.com/mitul3737/mitul3737/blob/main/Wave.gif" height="55px" width="55px">, I'm Ujang Arisandi</h1>
 
 
-<img align="right" alt="GIF" src="https://github.com/ujangaris/ujangaris/blob/main/ujangaris.gif?raw=true" width="500" height="320" />
+<img align="right" alt="GIF" src="https://github.com/ujangaris/ujangaris/blob/main/ujangaris.gif" width="500" height="320" />
 
 ## I'm Junior Programer!!
 - 🔭 I’m currently working on my course
