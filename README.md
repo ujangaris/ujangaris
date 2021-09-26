@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://github.com/mitul3737/mitul3737/blob/main/Wave.gif" height="55px" width="55px">, I'm MD. Shahriyar Al Mustakim Mitul</h1>
+<h1 align="center">👋, I'm Ujang Arisandi</h1>
 
 <img align="right" alt="GIF" src="https://github.com/ujangaris/ujangaris/blob/main/ujangaris.gif?raw=true" width="500" height="320" />
 
