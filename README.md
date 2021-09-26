@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-
+<img align="right" alt="GIF" src="https://github.com/ujangaris/ujangaris/blob/main/ujangaris.gif?raw=true" width="500" height="320" />
 
 - 🔭 I’m currently working on my course
 - 🌱 I’m currently learning TypeScript
