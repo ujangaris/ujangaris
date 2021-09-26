@@ -3,7 +3,7 @@
 
 <img align="right" alt="GIF" src="https://github.com/ujangaris/ujangaris/blob/main/ujangaris.gif" width="500" height="320" />
 
-## I'm Junior Programer!!
+## I'm Junior Programmer !!
 - 🔭 I’m currently working on my course
 - 🌱 I’m currently learning React Native and MongoDb
 - 👯 I’m looking to collaborate on open source
