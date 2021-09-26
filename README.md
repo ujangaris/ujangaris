@@ -1,9 +1,6 @@
 ### Hi there 👋
 
-<!--
-**ujangaris/ujangaris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on my course
 - 🌱 I’m currently learning TypeScript
@@ -13,4 +10,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...[Instagram]
 - 😄 Pronouns: ...I'm a man
 - ⚡ Fun fact: ...I am very HAPPY!!
--->
